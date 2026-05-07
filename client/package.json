@@ -9,3 +9,4 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/drei": "^9.58.5",
