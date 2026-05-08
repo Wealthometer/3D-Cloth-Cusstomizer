@@ -31,3 +31,4 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
       {title}
     </button>
   )
+}
