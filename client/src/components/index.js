@@ -8,3 +8,4 @@ export {
   CustomButton,
   AIPicker,
   ColorPicker,
+  FilePicker,
