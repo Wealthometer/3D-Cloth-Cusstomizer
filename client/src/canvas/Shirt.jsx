@@ -16,3 +16,4 @@ const Shirt = () => {
   useFrame((state, delta) => easing.dampC(materials.lambert1.color, snap.color, 0.25, delta));
 
   const stateString = JSON.stringify(snap);
+
