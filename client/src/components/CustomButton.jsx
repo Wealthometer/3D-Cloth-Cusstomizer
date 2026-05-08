@@ -14,3 +14,4 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
         color: getContrastingColor(snap.color)
       }
     } else if(type === "outline") {
+      return {
