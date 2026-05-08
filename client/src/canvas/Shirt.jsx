@@ -22,3 +22,4 @@ const Shirt = () => {
       <mesh
         castShadow
         geometry={nodes.T_Shirt_male.geometry}
+        material={materials.lambert1}
