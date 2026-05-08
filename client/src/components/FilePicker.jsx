@@ -7,3 +7,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
     <div className="filepicker-container">
       <div className="flex-1 flex flex-col">
         <input 
+          id="file-upload"
