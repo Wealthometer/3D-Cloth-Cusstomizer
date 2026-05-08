@@ -33,3 +33,4 @@ const CameraRig = ({ children }) => {
       0.25,
       delta
     )
+  })
