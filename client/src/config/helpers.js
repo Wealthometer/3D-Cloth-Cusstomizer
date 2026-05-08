@@ -10,3 +10,4 @@ export const downloadCanvasToImage = () => {
   document.body.removeChild(link);
 };
 
+export const reader = (file) =>
