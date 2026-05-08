@@ -15,3 +15,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
       <div className="flex flex-wrap gap-3">
         {generatingImg ? (
           <CustomButton 
+            type="outline"
