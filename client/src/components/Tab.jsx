@@ -18,3 +18,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
       style={activeStyles}
     >
       <img 
+        src={tab.icon}
