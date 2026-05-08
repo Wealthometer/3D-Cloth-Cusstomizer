@@ -20,3 +20,4 @@ const CanvasModel = () => {
         <Backdrop />
         <Center>
           <Shirt />
+        </Center>
