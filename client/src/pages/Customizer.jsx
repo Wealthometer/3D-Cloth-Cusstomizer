@@ -34,3 +34,4 @@ const Customizer = () => {
           file={file}
           setFile={setFile}
           readFile={readFile}
+        />
