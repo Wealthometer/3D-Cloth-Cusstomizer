@@ -6,3 +6,4 @@ import { useSnapshot } from 'valtio';
 import state from '../store';
 
 const CameraRig = ({ children }) => {
+  const group = useRef();
