@@ -29,3 +29,4 @@ export const FilterTabs = [
 export const DecalTypes = {
   logo: {
     stateProperty: "logoDecal",
+    filterTab: "logoShirt",
