@@ -7,3 +7,4 @@ export const downloadCanvasToImage = () => {
   link.download = "canvas.png";
   document.body.appendChild(link);
   link.click();
+  document.body.removeChild(link);
