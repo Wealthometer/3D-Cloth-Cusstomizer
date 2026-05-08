@@ -8,3 +8,4 @@ const Backdrop = () => {
 
   return (
     <AccumulativeShadows
+      ref={shadows}
