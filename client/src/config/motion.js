@@ -55,3 +55,4 @@ export const headContentAnimation = {
   transition: {
     type: "spring",
     damping: 7,
+    stiffness: 30,
