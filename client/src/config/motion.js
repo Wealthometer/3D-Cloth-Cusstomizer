@@ -19,3 +19,4 @@ export const slideAnimation = (direction) => {
       y: direction === "up" ? 100 : direction === "down" ? -100 : 0,
       transition: { ...transition, delay: 0 },
     },
+  };
