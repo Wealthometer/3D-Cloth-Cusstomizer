@@ -31,3 +31,4 @@ const Backdrop = () => {
         position={[-5, 5, -9]}
       />
     </AccumulativeShadows>
+  )
