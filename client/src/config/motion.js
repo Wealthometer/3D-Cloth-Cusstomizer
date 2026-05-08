@@ -63,3 +63,4 @@ export const headContentAnimation = {
   },
 };
 
+export const headContainerAnimation = {
