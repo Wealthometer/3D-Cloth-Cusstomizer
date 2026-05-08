@@ -33,3 +33,4 @@ const Shirt = () => {
             scale={1}
             map={fullTexture}
           />
+        )}
