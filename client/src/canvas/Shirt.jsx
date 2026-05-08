@@ -45,3 +45,4 @@ const Shirt = () => {
             depthTest={false}
             depthWrite={true}
           />
+        )}
