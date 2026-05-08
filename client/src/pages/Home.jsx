@@ -52,3 +52,4 @@ const Home = () => {
     </AnimatePresence>
   )
 }
+
