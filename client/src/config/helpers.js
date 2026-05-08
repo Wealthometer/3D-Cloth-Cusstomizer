@@ -15,3 +15,4 @@ export const reader = (file) =>
     const fileReader = new FileReader();
     fileReader.onload = () => resolve(fileReader.result);
     fileReader.readAsDataURL(file);
+  });
