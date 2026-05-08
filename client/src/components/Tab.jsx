@@ -12,3 +12,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
 
   return (
     <div
+      key={tab.name}
