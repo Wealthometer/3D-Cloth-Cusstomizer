@@ -30,3 +30,4 @@ export const getContrastingColor = (color) => {
   const brightness = (r * 299 + g * 587 + b * 114) / 1000;
 
   // Return black or white depending on the brightness
+  return brightness > 128 ? "black" : "white";
