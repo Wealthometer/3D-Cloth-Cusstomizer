@@ -21,3 +21,4 @@ const Home = () => {
             <img 
               src='./threejs.png'
               alt="logo"
+              className="w-8 h-8 object-contain"
