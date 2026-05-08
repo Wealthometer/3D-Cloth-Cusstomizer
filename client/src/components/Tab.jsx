@@ -24,3 +24,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
       />
     </div>
   )
+}
