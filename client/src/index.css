@@ -10,3 +10,4 @@ html {
 }
 
 @supports (font-variation-settings: normal) {
+  html {
