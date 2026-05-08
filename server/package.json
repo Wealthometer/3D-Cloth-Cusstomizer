@@ -5,3 +5,4 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js"
