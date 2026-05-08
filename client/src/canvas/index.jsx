@@ -26,3 +26,4 @@ const CanvasModel = () => {
   )
 }
 
+export default CanvasModel
