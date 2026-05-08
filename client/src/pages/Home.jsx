@@ -50,3 +50,4 @@ const Home = () => {
         </motion.section>
       )}
     </AnimatePresence>
+  )
