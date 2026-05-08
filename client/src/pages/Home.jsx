@@ -5,3 +5,4 @@ import state from '../store';
 import { CustomButton } from '../components';
 import {
   headContainerAnimation,
+  headContentAnimation,
