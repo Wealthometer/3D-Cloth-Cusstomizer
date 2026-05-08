@@ -4,3 +4,4 @@ const state = proxy({
   intro: true,
   color: '#EFBD48',
   isLogoTexture: true,
+  isFullTexture: false,
