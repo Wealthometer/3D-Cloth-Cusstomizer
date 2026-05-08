@@ -10,3 +10,4 @@ export const EditorTabs = [
     icon: fileIcon,
   },
   {
+    name: "aipicker",
