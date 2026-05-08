@@ -12,3 +12,4 @@ export const slideAnimation = (direction) => {
       x: 0,
       y: 0,
       opacity: 1,
+      transition: { ...transition, delay: 0 },
