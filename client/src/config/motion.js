@@ -22,3 +22,4 @@ export const slideAnimation = (direction) => {
   };
 };
 
+export const fadeAnimation = {
