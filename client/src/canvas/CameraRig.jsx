@@ -10,3 +10,4 @@ const CameraRig = ({ children }) => {
   const snap = useSnapshot(state);
 
   useFrame((state, delta) => {
+    const isBreakpoint = window.innerWidth <= 1260;
