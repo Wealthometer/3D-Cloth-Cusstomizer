@@ -13,3 +13,4 @@
   "dependencies": {
     "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
