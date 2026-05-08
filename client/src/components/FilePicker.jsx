@@ -31,3 +31,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
         <CustomButton 
           type="filled"
           title="Full"
+          handleClick={() => readFile('full')}
