@@ -25,3 +25,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
         <CustomButton 
           type="outline"
           title="Logo"
+          handleClick={() => readFile('logo')}
