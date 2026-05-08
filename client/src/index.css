@@ -87,3 +87,4 @@ input[type="file"] {
   border-radius: 6px !important;
 }
 
+.sketch-picker > div:nth-child(3) {
