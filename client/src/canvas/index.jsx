@@ -18,3 +18,4 @@ const CanvasModel = () => {
 
       <CameraRig>
         <Backdrop />
+        <Center>
