@@ -27,3 +27,4 @@ const Shirt = () => {
         dispose={null}
       >
         {snap.isFullTexture && (
+          <Decal 
