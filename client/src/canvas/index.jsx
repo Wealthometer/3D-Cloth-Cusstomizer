@@ -17,3 +17,4 @@ const CanvasModel = () => {
       {/* <Environment preset="studio" /> */}
 
       <CameraRig>
+        <Backdrop />
