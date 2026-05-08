@@ -8,3 +8,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
       <textarea 
         placeholder="Ask AI..."
         rows={5}
+        value={prompt}
