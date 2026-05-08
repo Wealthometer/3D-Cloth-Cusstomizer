@@ -29,3 +29,4 @@ const Backdrop = () => {
         intensity={0.25}
         ambient={0.55}
         position={[-5, 5, -9]}
+      />
