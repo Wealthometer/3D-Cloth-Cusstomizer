@@ -18,3 +18,4 @@ export const reader = (file) =>
   });
 
 export const getContrastingColor = (color) => {
+  // Remove the '#' character if it exists
