@@ -30,3 +30,4 @@ const Customizer = () => {
       case "colorpicker":
         return <ColorPicker />
       case "filepicker":
+        return <FilePicker
