@@ -41,3 +41,4 @@ const Home = () => {
 
               <CustomButton 
                 type="filled"
+                title="Customize It"
