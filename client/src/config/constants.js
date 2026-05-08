@@ -11,3 +11,4 @@ export const EditorTabs = [
   },
   {
     name: "aipicker",
+    icon: ai,
