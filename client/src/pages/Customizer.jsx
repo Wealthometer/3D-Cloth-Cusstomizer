@@ -15,3 +15,4 @@ const Customizer = () => {
 
   const [file, setFile] = useState('');
 
+  const [prompt, setPrompt] = useState('');
