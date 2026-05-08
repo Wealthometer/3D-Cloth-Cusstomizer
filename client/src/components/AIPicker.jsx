@@ -18,3 +18,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
             type="outline"
             title="Asking AI..."
             customStyles="text-xs"
+          />
