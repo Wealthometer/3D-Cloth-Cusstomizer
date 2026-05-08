@@ -23,3 +23,4 @@ const CameraRig = ({ children }) => {
       else targetPosition = [0, 0, 2];
     }
 
+    // set model camera position
