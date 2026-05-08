@@ -9,3 +9,4 @@ html {
   font-family: "Inter", sans-serif;
 }
 
+@supports (font-variation-settings: normal) {
