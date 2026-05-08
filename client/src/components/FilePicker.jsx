@@ -36,3 +36,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
         />
       </div>
     </div>
+  )
