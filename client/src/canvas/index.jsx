@@ -9,3 +9,4 @@ const CanvasModel = () => {
   return (
     <Canvas
       shadows
+      gl={{ preserveDrawingBuffer: true }}
