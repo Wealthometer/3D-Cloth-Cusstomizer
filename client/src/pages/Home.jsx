@@ -42,3 +42,4 @@ const Home = () => {
               <CustomButton 
                 type="filled"
                 title="Customize It"
+                handleClick={() => state.intro = false}
