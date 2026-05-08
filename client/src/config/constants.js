@@ -4,3 +4,4 @@ export const EditorTabs = [
   {
     name: "colorpicker",
     icon: swatch,
+  },
