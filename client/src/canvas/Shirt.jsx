@@ -7,3 +7,4 @@ import { Decal, useGLTF, useTexture } from '@react-three/drei';
 import state from '../store';
 
 const Shirt = () => {
+  const snap = useSnapshot(state);
