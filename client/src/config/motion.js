@@ -47,3 +47,4 @@ export const headTextAnimation = {
     restDelta: 0.001,
     duration: 0.3,
   },
+};
