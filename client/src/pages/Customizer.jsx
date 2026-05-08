@@ -41,3 +41,4 @@ const Customizer = () => {
           setPrompt={setPrompt}
           generatingImg={generatingImg}
           handleSubmit={handleSubmit}
+        />
