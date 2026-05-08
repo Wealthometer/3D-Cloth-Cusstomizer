@@ -8,3 +8,4 @@ const state = proxy({
   logoDecal: './threejs.png',
   fullDecal: './threejs.png',
 });
+
