@@ -35,3 +35,4 @@ const Shirt = () => {
           />
         )}
 
+        {snap.isLogoTexture && (
