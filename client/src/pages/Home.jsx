@@ -10,3 +10,4 @@ import {
   slideAnimation
 } from '../config/motion';
 
+const Home = () => {
