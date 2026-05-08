@@ -24,3 +24,4 @@ export const FilterTabs = [
     name: "stylishShirt",
     icon: stylishShirt,
   },
+];
