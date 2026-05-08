@@ -20,3 +20,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
             customStyles="text-xs"
           />
         ) : (
+          <>
