@@ -40,3 +40,4 @@ const Home = () => {
               </p>
 
               <CustomButton 
+                type="filled"
