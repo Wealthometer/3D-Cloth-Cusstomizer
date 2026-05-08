@@ -5,3 +5,4 @@ const config = {
   production: {
     backendUrl: "https://devswag.onrender.com/api/v1/dalle",
   },
+};
