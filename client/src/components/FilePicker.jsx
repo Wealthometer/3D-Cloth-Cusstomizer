@@ -27,3 +27,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
           title="Logo"
           handleClick={() => readFile('logo')}
           customStyles="text-xs"
+        />
