@@ -22,3 +22,4 @@ const CanvasModel = () => {
           <Shirt />
         </Center>
       </CameraRig>
+    </Canvas>
