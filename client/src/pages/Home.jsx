@@ -6,3 +6,4 @@ import { CustomButton } from '../components';
 import {
   headContainerAnimation,
   headContentAnimation,
+  headTextAnimation,
