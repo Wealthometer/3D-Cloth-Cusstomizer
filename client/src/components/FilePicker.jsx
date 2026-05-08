@@ -10,3 +10,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
           id="file-upload"
           type="file"
           accept="image/*"
+          onChange={(e) => setFile(e.target.files[0])}
