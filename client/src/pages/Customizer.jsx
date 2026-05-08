@@ -28,3 +28,4 @@ const Customizer = () => {
   const generateTabContent = () => {
     switch (activeEditorTab) {
       case "colorpicker":
+        return <ColorPicker />
