@@ -36,3 +36,4 @@ const Customizer = () => {
           readFile={readFile}
         />
       case "aipicker":
+        return <AIPicker 
