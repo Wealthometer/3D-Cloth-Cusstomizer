@@ -19,3 +19,4 @@ export const FilterTabs = [
   {
     name: "logoShirt",
     icon: logoShirt,
+  },
