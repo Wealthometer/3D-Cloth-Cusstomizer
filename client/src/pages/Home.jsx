@@ -31,3 +31,4 @@ const Home = () => {
                 LET'S <br className="xl:block hidden" /> DO IT.
               </h1>
             </motion.div>
+            <motion.div
