@@ -8,3 +8,4 @@ import CameraRig from './CameraRig';
 const CanvasModel = () => {
   return (
     <Canvas
+      shadows
