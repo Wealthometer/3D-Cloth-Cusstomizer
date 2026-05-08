@@ -24,3 +24,4 @@ const CanvasModel = () => {
       </CameraRig>
     </Canvas>
   )
+}
