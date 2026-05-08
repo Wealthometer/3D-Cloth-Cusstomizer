@@ -11,3 +11,4 @@ export const downloadCanvasToImage = () => {
 };
 
 export const reader = (file) =>
+  new Promise((resolve, reject) => {
