@@ -32,3 +32,4 @@ const Home = () => {
               </h1>
             </motion.div>
             <motion.div
+              {...headContentAnimation}
