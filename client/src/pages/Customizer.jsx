@@ -35,3 +35,4 @@ const Customizer = () => {
           setFile={setFile}
           readFile={readFile}
         />
+      case "aipicker":
