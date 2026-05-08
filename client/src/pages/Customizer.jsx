@@ -31,3 +31,4 @@ const Customizer = () => {
         return <ColorPicker />
       case "filepicker":
         return <FilePicker
+          file={file}
