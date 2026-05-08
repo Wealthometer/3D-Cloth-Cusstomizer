@@ -15,3 +15,4 @@ const CameraRig = ({ children }) => {
 
     // set the initial position of the model
     let targetPosition = [-0.4, 0, 2];
+    if(snap.intro) {
