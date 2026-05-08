@@ -33,3 +33,4 @@ const Home = () => {
             </motion.div>
             <motion.div
               {...headContentAnimation}
+              className="flex flex-col gap-5"
