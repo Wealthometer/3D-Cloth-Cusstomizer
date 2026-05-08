@@ -22,3 +22,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
       </div>
 
       <div className="mt-4 flex flex-wrap gap-3">
+        <CustomButton 
