@@ -10,3 +10,4 @@ export {
   ColorPicker,
   FilePicker,
   Tab,
+};
