@@ -47,3 +47,4 @@ const Shirt = () => {
           />
         )}
       </mesh>
+    </group>
