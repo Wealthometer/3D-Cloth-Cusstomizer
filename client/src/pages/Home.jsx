@@ -7,3 +7,4 @@ import {
   headContainerAnimation,
   headContentAnimation,
   headTextAnimation,
+  slideAnimation
