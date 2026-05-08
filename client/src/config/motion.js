@@ -49,3 +49,4 @@ export const headTextAnimation = {
   },
 };
 
+export const headContentAnimation = {
