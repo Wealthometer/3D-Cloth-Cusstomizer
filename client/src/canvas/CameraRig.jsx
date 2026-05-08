@@ -12,3 +12,4 @@ const CameraRig = ({ children }) => {
   useFrame((state, delta) => {
     const isBreakpoint = window.innerWidth <= 1260;
     const isMobile = window.innerWidth <= 600;
+
