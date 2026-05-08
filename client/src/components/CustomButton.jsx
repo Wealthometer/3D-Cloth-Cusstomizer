@@ -22,3 +22,4 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
     }
   }
 
+  return (
