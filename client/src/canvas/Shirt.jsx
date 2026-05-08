@@ -46,3 +46,4 @@ const Shirt = () => {
             depthWrite={true}
           />
         )}
+      </mesh>
