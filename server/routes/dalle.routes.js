@@ -17,3 +17,4 @@ router.route('/').get((req, res) => {
 })
 
 router.route('/').post(async (req, res) => {
+  try {
