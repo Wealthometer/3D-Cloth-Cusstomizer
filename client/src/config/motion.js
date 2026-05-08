@@ -60,3 +60,4 @@ export const headContentAnimation = {
     duration: 0.6,
     delay: 0.2,
     delayChildren: 0.2,
+  },
