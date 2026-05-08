@@ -50,3 +50,4 @@ export const headTextAnimation = {
 };
 
 export const headContentAnimation = {
+  initial: { y: 100, opacity: 0 },
