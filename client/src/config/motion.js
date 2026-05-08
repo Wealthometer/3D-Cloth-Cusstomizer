@@ -54,3 +54,4 @@ export const headContentAnimation = {
   animate: { y: 0, opacity: 1 },
   transition: {
     type: "spring",
+    damping: 7,
