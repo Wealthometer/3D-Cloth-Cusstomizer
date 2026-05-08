@@ -22,3 +22,4 @@ export const getContrastingColor = (color) => {
   const hex = color.replace("#", "");
 
   // Convert the hex string to RGB values
+  const r = parseInt(hex.substring(0, 2), 16);
