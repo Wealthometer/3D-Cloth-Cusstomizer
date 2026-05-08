@@ -10,3 +10,4 @@ const Backdrop = () => {
     <AccumulativeShadows
       ref={shadows}
       temporal
+      frames={60}
