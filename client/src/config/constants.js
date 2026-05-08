@@ -14,3 +14,4 @@ export const EditorTabs = [
     icon: ai,
   },
 ];
+
