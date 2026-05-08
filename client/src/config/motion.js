@@ -62,3 +62,4 @@ export const headContentAnimation = {
     delayChildren: 0.2,
   },
 };
+
