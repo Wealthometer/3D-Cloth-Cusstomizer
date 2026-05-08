@@ -48,3 +48,4 @@ export const headTextAnimation = {
     duration: 0.3,
   },
 };
+
