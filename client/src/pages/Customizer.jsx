@@ -33,3 +33,4 @@ const Customizer = () => {
         return <FilePicker
           file={file}
           setFile={setFile}
+          readFile={readFile}
