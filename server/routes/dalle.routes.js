@@ -26,3 +26,4 @@ router.route('/').post(async (req, res) => {
       size: '1024x1024',
       response_format: 'b64_json'
     });
+
