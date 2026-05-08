@@ -10,3 +10,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
     ? { backgroundColor: snap.color, opacity: 0.5 }
     : { backgroundColor: "transparent", opacity: 1 }
 
+  return (
