@@ -15,3 +15,4 @@ export const slideAnimation = (direction) => {
       transition: { ...transition, delay: 0 },
     },
     exit: {
+      x: direction === "left" ? -100 : direction === "right" ? 100 : 0,
