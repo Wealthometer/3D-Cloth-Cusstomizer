@@ -9,4 +9,5 @@ const CanvasModel = () => {
   return (
     <Canvas
       shadows
+      camera={{ position: [0, 0, 0], fov: 25 }}
       gl={{ preserveDrawingBuffer: true }}
