@@ -32,3 +32,4 @@ const Customizer = () => {
       case "filepicker":
         return <FilePicker
           file={file}
+          setFile={setFile}
