@@ -9,3 +9,4 @@ import {
   headTextAnimation,
   slideAnimation
 } from '../config/motion';
+
