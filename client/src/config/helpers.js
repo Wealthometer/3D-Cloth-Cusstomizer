@@ -3,3 +3,4 @@ export const downloadCanvasToImage = () => {
   const dataURL = canvas.toDataURL();
   const link = document.createElement("a");
 
+  link.href = dataURL;
