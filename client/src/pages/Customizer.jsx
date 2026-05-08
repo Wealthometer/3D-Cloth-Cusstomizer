@@ -38,3 +38,4 @@ const Customizer = () => {
       case "aipicker":
         return <AIPicker 
           prompt={prompt}
+          setPrompt={setPrompt}
