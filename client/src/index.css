@@ -44,3 +44,4 @@ html {
 }
 
 .aipicker-container {
+  @apply absolute left-full ml-3 glassmorphism p-3 w-[195px] h-[220px] rounded-md flex flex-col gap-4;
