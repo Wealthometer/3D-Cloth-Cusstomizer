@@ -35,3 +35,4 @@ html {
   @apply w-14 h-14 flex justify-center items-center rounded-full glassmorphism cursor-pointer outline-none;
 }
 
+.editortabs-container {
