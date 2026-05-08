@@ -14,3 +14,4 @@ const CameraRig = ({ children }) => {
     const isMobile = window.innerWidth <= 600;
 
     // set the initial position of the model
+    let targetPosition = [-0.4, 0, 2];
