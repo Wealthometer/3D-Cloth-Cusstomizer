@@ -39,3 +39,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
       </div>
     </div>
   )
+}
