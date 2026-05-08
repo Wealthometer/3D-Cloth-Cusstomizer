@@ -21,3 +21,4 @@ export const slideAnimation = (direction) => {
     },
   };
 };
+
