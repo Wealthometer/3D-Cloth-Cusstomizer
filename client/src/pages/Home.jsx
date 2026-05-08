@@ -16,3 +16,4 @@ const Home = () => {
   return (
     <AnimatePresence>
       {snap.intro && (
+          <motion.header {...slideAnimation("down")}>
