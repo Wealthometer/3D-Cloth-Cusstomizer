@@ -4,3 +4,4 @@ export const downloadCanvasToImage = () => {
   const link = document.createElement("a");
 
   link.href = dataURL;
+  link.download = "canvas.png";
