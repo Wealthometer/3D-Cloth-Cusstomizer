@@ -46,3 +46,4 @@ export const headTextAnimation = {
     stiffness: 40,
     restDelta: 0.001,
     duration: 0.3,
+  },
