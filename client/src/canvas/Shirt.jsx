@@ -36,3 +36,4 @@ const Shirt = () => {
         )}
 
         {snap.isLogoTexture && (
+          <Decal 
