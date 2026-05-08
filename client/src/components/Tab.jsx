@@ -26,3 +26,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
   )
 }
 
+export default Tab
