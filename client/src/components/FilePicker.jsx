@@ -20,3 +20,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
           {file === '' ? "No file selected" : file.name}
         </p>
       </div>
+
