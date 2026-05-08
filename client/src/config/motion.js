@@ -10,3 +10,4 @@ export const slideAnimation = (direction) => {
     },
     animate: {
       x: 0,
+      y: 0,
