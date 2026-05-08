@@ -20,3 +20,4 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
         color: snap.color
       }
     }
+  }
