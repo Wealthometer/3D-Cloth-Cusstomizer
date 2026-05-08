@@ -16,3 +16,4 @@ export const reader = (file) =>
     fileReader.onload = () => resolve(fileReader.result);
     fileReader.readAsDataURL(file);
   });
+
