@@ -44,3 +44,4 @@ const Shirt = () => {
             map-anisotropy={16}
             depthTest={false}
             depthWrite={true}
+          />
