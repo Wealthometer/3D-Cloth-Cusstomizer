@@ -31,3 +31,4 @@ export const DecalTypes = {
     stateProperty: "logoDecal",
     filterTab: "logoShirt",
   },
+  full: {
