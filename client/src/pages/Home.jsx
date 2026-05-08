@@ -18,3 +18,4 @@ const Home = () => {
       {snap.intro && (
         <motion.section className="home" {...slideAnimation('left')}>
           <motion.header {...slideAnimation("down")}>
+            <img 
