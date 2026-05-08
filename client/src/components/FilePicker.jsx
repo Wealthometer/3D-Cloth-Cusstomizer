@@ -21,3 +21,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
         </p>
       </div>
 
+      <div className="mt-4 flex flex-wrap gap-3">
