@@ -19,3 +19,4 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
         borderColor: snap.color,
         color: snap.color
       }
+    }
