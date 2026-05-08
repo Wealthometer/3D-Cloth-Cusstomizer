@@ -11,3 +11,4 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cloudinary": "^1.35.0",
