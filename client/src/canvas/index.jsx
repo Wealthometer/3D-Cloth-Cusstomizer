@@ -23,3 +23,4 @@ const CanvasModel = () => {
         </Center>
       </CameraRig>
     </Canvas>
+  )
