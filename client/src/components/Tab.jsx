@@ -16,3 +16,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
       className={`tab-btn ${isFilterTab ? 'rounded-full glassmorphism' : 'rounded-4'}`}
       onClick={handleClick}
       style={activeStyles}
+    >
