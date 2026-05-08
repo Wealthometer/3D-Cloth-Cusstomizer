@@ -28,3 +28,4 @@ const CameraRig = ({ children }) => {
 
     // set the model rotation smoothly
     easing.dampE(
+      group.current.rotation,
