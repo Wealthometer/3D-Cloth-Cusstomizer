@@ -64,3 +64,4 @@ export const headContentAnimation = {
 };
 
 export const headContainerAnimation = {
+  initial: { x: -100, opacity: 0, transition: { ...transition, delay: 0.5 } },
