@@ -14,3 +14,4 @@ const Home = () => {
   const snap = useSnapshot(state);
 
   return (
+    <AnimatePresence>
