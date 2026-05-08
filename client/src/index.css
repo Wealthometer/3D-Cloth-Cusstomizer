@@ -78,3 +78,4 @@ input[type="file"] {
 }
 
 .sketch-picker {
+  width: 170px !important;
