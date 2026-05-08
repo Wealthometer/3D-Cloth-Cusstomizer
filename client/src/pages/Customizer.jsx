@@ -29,3 +29,4 @@ const Customizer = () => {
     switch (activeEditorTab) {
       case "colorpicker":
         return <ColorPicker />
+      case "filepicker":
