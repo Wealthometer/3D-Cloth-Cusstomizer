@@ -43,3 +43,4 @@ export const headTextAnimation = {
   transition: {
     type: "spring",
     damping: 5,
+    stiffness: 40,
