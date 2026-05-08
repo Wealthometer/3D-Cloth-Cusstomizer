@@ -25,3 +25,4 @@ export const slideAnimation = (direction) => {
 export const fadeAnimation = {
   initial: {
     opacity: 0,
+    transition: { ...transition, delay: 0.5 },
