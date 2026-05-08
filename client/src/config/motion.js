@@ -28,3 +28,4 @@ export const fadeAnimation = {
     transition: { ...transition, delay: 0.5 },
   },
   animate: {
+    opacity: 1,
