@@ -6,3 +6,4 @@ module.exports = {
   ],
   theme: {
     extend: {},
+  },
