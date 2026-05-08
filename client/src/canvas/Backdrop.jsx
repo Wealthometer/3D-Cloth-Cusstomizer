@@ -24,3 +24,4 @@ const Backdrop = () => {
         position={[5, 5, -10]}
       />
       <RandomizedLight 
+        amount={4}
