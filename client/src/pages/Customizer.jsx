@@ -18,3 +18,4 @@ const Customizer = () => {
   const [prompt, setPrompt] = useState('');
   const [generatingImg, setGeneratingImg] = useState(false);
 
+  const [activeEditorTab, setActiveEditorTab] = useState("");
