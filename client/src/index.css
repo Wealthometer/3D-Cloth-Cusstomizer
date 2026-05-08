@@ -79,3 +79,4 @@ input[type="file"] {
 
 .sketch-picker {
   width: 170px !important;
+  background: rgba(255, 255, 255, 0.25) !important;
