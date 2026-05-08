@@ -48,3 +48,4 @@ const Shirt = () => {
         )}
       </mesh>
     </group>
+  )
