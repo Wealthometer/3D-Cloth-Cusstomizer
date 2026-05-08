@@ -21,3 +21,4 @@ router.route('/').post(async (req, res) => {
     const { prompt } = req.body;
 
     const response = await openai.createImage({
+      prompt,
