@@ -13,3 +13,4 @@ const Backdrop = () => {
       frames={60}
       alphaTest={0.85}
       scae={10}
+      rotation={[Math.PI / 2, 0, 0]}
