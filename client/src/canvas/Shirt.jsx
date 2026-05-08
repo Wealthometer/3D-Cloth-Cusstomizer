@@ -24,4 +24,5 @@ const Shirt = () => {
         geometry={nodes.T_Shirt_male.geometry}
         material={materials.lambert1}
         material-roughness={1}
+        dispose={null}
       >
