@@ -27,3 +27,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
               handleClick={() => handleSubmit('logo')}
               customStyles="text-xs"
             />
+
