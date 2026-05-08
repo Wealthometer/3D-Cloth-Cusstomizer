@@ -29,3 +29,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
           customStyles="text-xs"
         />
         <CustomButton 
+          type="filled"
