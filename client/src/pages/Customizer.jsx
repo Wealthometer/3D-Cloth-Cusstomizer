@@ -25,3 +25,4 @@ const Customizer = () => {
   })
 
   // show tab content depending on the activeTab
+  const generateTabContent = () => {
