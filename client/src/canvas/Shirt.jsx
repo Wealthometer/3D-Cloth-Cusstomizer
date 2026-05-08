@@ -50,3 +50,4 @@ const Shirt = () => {
     </group>
   )
 }
+
