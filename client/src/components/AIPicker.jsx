@@ -9,3 +9,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
         placeholder="Ask AI..."
         rows={5}
         value={prompt}
+        onChange={(e) => setPrompt(e.target.value)}
