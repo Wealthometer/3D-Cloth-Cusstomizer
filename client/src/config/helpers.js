@@ -17,3 +17,4 @@ export const reader = (file) =>
     fileReader.readAsDataURL(file);
   });
 
+export const getContrastingColor = (color) => {
