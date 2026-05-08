@@ -10,3 +10,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
         rows={5}
         value={prompt}
         onChange={(e) => setPrompt(e.target.value)}
+        className="aipicker-textarea"
