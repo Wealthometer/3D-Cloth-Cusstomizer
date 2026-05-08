@@ -38,3 +38,4 @@ export const fadeAnimation = {
 };
 
 export const headTextAnimation = {
+  initial: { x: 100, opacity: 0 },
