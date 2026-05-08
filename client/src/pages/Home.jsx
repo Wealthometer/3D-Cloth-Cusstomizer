@@ -15,3 +15,4 @@ const Home = () => {
 
   return (
     <AnimatePresence>
+      {snap.intro && (
