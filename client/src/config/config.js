@@ -6,3 +6,4 @@ const config = {
     backendUrl: "https://devswag.onrender.com/api/v1/dalle",
   },
 };
+
