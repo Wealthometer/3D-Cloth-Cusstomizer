@@ -10,3 +10,4 @@ function App() {
       <Customizer />
     </main>
   )
+}
