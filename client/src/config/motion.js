@@ -37,3 +37,4 @@ export const fadeAnimation = {
   },
 };
 
+export const headTextAnimation = {
