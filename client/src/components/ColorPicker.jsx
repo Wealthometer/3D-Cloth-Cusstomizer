@@ -15,3 +15,4 @@ const ColorPicker = () => {
         onChange={(color) => state.color = color.hex}
       />
     </div>
+  )
