@@ -5,3 +5,4 @@ import { useSnapshot } from 'valtio'
 import state from '../store';
 
 const ColorPicker = () => {
+  const snap = useSnapshot(state);
