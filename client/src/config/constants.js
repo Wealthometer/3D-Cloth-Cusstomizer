@@ -32,3 +32,4 @@ export const DecalTypes = {
     filterTab: "logoShirt",
   },
   full: {
+    stateProperty: "fullDecal",
