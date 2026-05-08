@@ -17,3 +17,4 @@ const Shirt = () => {
 
   const stateString = JSON.stringify(snap);
 
+  return (
