@@ -9,3 +9,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
         <input 
           id="file-upload"
           type="file"
+          accept="image/*"
