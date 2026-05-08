@@ -14,3 +14,4 @@ const ColorPicker = () => {
         disableAlpha
         onChange={(color) => state.color = color.hex}
       />
+    </div>
