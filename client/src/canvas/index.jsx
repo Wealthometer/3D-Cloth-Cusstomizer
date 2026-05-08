@@ -12,3 +12,4 @@ const CanvasModel = () => {
       camera={{ position: [0, 0, 0], fov: 25 }}
       gl={{ preserveDrawingBuffer: true }}
       className="w-full max-w-full h-full transition-all ease-in"
+    >
