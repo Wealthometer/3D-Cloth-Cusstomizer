@@ -11,3 +11,4 @@ import { fadeAnimation, slideAnimation } from '../config/motion';
 import { AIPicker, ColorPicker, CustomButton, FilePicker, Tab } from '../components';
 
 const Customizer = () => {
+  const snap = useSnapshot(state);
