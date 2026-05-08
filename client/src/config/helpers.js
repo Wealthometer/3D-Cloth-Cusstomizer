@@ -9,3 +9,4 @@ export const downloadCanvasToImage = () => {
   link.click();
   document.body.removeChild(link);
 };
+
