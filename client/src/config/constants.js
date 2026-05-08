@@ -16,3 +16,4 @@ export const EditorTabs = [
 ];
 
 export const FilterTabs = [
+  {
