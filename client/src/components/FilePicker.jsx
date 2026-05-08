@@ -11,3 +11,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
           type="file"
           accept="image/*"
           onChange={(e) => setFile(e.target.files[0])}
+        />
