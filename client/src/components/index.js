@@ -7,3 +7,4 @@ import Tab from "./Tab";
 export { 
   CustomButton,
   AIPicker,
+  ColorPicker,
