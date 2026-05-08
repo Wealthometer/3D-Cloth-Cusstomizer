@@ -13,3 +13,4 @@ const CameraRig = ({ children }) => {
     const isBreakpoint = window.innerWidth <= 1260;
     const isMobile = window.innerWidth <= 600;
 
+    // set the initial position of the model
