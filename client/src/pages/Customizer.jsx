@@ -22,3 +22,4 @@ const Customizer = () => {
   const [activeFilterTab, setActiveFilterTab] = useState({
     logoShirt: true,
     stylishShirt: false,
+  })
