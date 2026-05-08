@@ -11,3 +11,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
     : { backgroundColor: "transparent", opacity: 1 }
 
   return (
+    <div
