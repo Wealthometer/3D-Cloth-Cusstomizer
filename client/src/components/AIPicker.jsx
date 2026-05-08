@@ -19,3 +19,4 @@ const AIPicker = ({ prompt, setPrompt, generatingImg, handleSubmit }) => {
             title="Asking AI..."
             customStyles="text-xs"
           />
+        ) : (
