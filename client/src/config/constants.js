@@ -6,3 +6,4 @@ export const EditorTabs = [
     icon: swatch,
   },
   {
+    name: "filepicker",
