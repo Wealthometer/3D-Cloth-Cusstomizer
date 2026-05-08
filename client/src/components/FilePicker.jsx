@@ -39,3 +39,4 @@ const FilePicker = ({ file, setFile, readFile }) => {
   )
 }
 
+export default FilePicker
