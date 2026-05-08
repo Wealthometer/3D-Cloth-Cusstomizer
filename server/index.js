@@ -4,3 +4,4 @@ import cors from 'cors';
 
 import dalleRoutes from './routes/dalle.routes.js';
 
+dotenv.config();
