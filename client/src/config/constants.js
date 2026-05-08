@@ -27,3 +27,4 @@ export const FilterTabs = [
 ];
 
 export const DecalTypes = {
+  logo: {
