@@ -17,3 +17,4 @@ const Tab = ({ tab, isFilterTab, isActiveTab, handleClick }) => {
       onClick={handleClick}
       style={activeStyles}
     >
+      <img 
