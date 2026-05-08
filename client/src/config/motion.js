@@ -20,3 +20,4 @@ export const slideAnimation = (direction) => {
       transition: { ...transition, delay: 0 },
     },
   };
+};
