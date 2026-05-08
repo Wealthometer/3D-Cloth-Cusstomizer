@@ -27,3 +27,4 @@ html {
   @apply flex-1 xl:justify-center justify-start flex flex-col gap-10;
 }
 
+.head-text {
