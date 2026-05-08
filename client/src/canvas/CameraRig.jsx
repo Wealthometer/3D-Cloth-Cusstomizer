@@ -9,3 +9,4 @@ const CameraRig = ({ children }) => {
   const group = useRef();
   const snap = useSnapshot(state);
 
+  useFrame((state, delta) => {
