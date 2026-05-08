@@ -8,3 +8,4 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
+  "author": "",
