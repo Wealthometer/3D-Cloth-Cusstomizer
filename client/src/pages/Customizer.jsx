@@ -83,3 +83,4 @@ const Customizer = () => {
       handleActiveFilterTab(decalType.filterTab)
     }
   }
+
