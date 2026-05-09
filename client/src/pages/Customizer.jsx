@@ -84,3 +84,4 @@ const Customizer = () => {
     }
   }
 
+  const handleActiveFilterTab = (tabName) => {
