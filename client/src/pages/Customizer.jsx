@@ -112,3 +112,4 @@ const Customizer = () => {
     reader(file)
       .then((result) => {
         handleDecals(type, result);
+        setActiveEditorTab("");
