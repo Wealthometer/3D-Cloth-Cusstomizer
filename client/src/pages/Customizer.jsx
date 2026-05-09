@@ -71,3 +71,4 @@ const Customizer = () => {
     } finally {
       setGeneratingImg(false);
       setActiveEditorTab("");
+    }
