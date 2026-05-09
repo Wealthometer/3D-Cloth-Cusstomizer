@@ -51,3 +51,4 @@ const Customizer = () => {
     if(!prompt) return alert("Please enter a prompt");
 
     try {
+      setGeneratingImg(true);
