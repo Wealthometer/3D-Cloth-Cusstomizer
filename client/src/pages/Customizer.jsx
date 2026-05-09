@@ -103,3 +103,4 @@ const Customizer = () => {
     setActiveFilterTab((prevState) => {
       return {
         ...prevState,
+        [tabName]: !prevState[tabName]
