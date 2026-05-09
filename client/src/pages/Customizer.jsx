@@ -106,3 +106,4 @@ const Customizer = () => {
         [tabName]: !prevState[tabName]
       }
     })
+  }
