@@ -156,3 +156,4 @@ const Customizer = () => {
             className='filtertabs-container'
             {...slideAnimation("up")}
           >
+            {FilterTabs.map((tab) => (
