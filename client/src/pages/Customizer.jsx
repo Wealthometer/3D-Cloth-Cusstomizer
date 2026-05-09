@@ -120,3 +120,4 @@ const Customizer = () => {
     <AnimatePresence>
       {!snap.intro && (
         <>
+          <motion.div
