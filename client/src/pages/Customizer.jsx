@@ -166,3 +166,4 @@ const Customizer = () => {
               />
             ))}
           </motion.div>
+        </>
