@@ -126,3 +126,4 @@ const Customizer = () => {
             {...slideAnimation('left')}
           >
             <div className="flex items-center min-h-screen">
+              <div className="editortabs-container tabs">
