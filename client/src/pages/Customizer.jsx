@@ -94,3 +94,4 @@ const Customizer = () => {
         break;
       default:
         state.isLogoTexture = true;
+        state.isFullTexture = false;
