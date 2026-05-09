@@ -65,3 +65,4 @@ const Customizer = () => {
 
       const data = await response.json();
 
+      handleDecals(type, `data:image/png;base64,${data.photo}`)
