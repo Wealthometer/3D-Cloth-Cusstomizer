@@ -74,3 +74,4 @@ const Customizer = () => {
     }
   }
 
+  const handleDecals = (type, result) => {
