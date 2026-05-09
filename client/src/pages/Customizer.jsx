@@ -154,3 +154,4 @@ const Customizer = () => {
 
           <motion.div
             className='filtertabs-container'
+            {...slideAnimation("up")}
