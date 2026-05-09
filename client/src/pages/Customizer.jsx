@@ -57,3 +57,4 @@ const Customizer = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
+        },
