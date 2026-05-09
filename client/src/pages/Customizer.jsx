@@ -164,3 +164,4 @@ const Customizer = () => {
                 isActiveTab={activeFilterTab[tab.name]}
                 handleClick={() => handleActiveFilterTab(tab.name)}
               />
+            ))}
