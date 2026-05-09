@@ -117,3 +117,4 @@ const Customizer = () => {
   }
 
   return (
+    <AnimatePresence>
