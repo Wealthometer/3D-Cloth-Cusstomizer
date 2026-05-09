@@ -153,3 +153,4 @@ const Customizer = () => {
           </motion.div>
 
           <motion.div
+            className='filtertabs-container'
