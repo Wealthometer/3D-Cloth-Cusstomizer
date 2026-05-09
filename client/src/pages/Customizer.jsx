@@ -87,3 +87,4 @@ const Customizer = () => {
   const handleActiveFilterTab = (tabName) => {
     switch (tabName) {
       case "logoShirt":
+          state.isLogoTexture = !activeFilterTab[tabName];
