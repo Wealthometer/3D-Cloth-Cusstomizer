@@ -125,3 +125,4 @@ const Customizer = () => {
             className="absolute top-0 left-0 z-10"
             {...slideAnimation('left')}
           >
+            <div className="flex items-center min-h-screen">
