@@ -59,3 +59,4 @@ const Customizer = () => {
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
+          prompt,
