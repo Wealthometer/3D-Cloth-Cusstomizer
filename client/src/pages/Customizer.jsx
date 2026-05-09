@@ -147,3 +147,4 @@ const Customizer = () => {
             <CustomButton 
               type="filled"
               title="Go Back"
+              handleClick={() => state.intro = true}
