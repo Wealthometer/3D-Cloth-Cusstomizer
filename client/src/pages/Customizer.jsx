@@ -145,3 +145,4 @@ const Customizer = () => {
             {...fadeAnimation}
           >
             <CustomButton 
+              type="filled"
