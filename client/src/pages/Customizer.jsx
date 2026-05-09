@@ -122,3 +122,4 @@ const Customizer = () => {
         <>
           <motion.div
             key="custom"
+            className="absolute top-0 left-0 z-10"
