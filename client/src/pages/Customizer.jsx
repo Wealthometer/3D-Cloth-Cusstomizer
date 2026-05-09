@@ -165,3 +165,4 @@ const Customizer = () => {
                 handleClick={() => handleActiveFilterTab(tab.name)}
               />
             ))}
+          </motion.div>
