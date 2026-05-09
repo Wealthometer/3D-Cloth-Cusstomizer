@@ -101,3 +101,4 @@ const Customizer = () => {
     // after setting the state, activeFilterTab is updated
 
     setActiveFilterTab((prevState) => {
+      return {
