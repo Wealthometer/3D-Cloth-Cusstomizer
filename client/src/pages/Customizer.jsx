@@ -137,3 +137,4 @@ const Customizer = () => {
 
                 {generateTabContent()}
               </div>
+            </div>
