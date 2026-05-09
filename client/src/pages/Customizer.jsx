@@ -97,3 +97,4 @@ const Customizer = () => {
         state.isFullTexture = false;
         break;
     }
+
