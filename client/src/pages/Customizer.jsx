@@ -172,3 +172,4 @@ const Customizer = () => {
   )
 }
 
+export default Customizer
