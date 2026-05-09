@@ -98,3 +98,4 @@ const Customizer = () => {
         break;
     }
 
+    // after setting the state, activeFilterTab is updated
