@@ -63,3 +63,4 @@ const Customizer = () => {
         })
       })
 
+      const data = await response.json();
