@@ -138,3 +138,4 @@ const Customizer = () => {
                 {generateTabContent()}
               </div>
             </div>
+          </motion.div>
