@@ -159,3 +159,4 @@ const Customizer = () => {
             {FilterTabs.map((tab) => (
               <Tab
                 key={tab.name}
+                tab={tab}
