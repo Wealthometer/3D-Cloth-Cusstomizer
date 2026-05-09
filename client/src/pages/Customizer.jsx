@@ -121,3 +121,4 @@ const Customizer = () => {
       {!snap.intro && (
         <>
           <motion.div
+            key="custom"
