@@ -47,3 +47,4 @@ const Customizer = () => {
     }
   }
 
+  const handleSubmit = async (type) => {
