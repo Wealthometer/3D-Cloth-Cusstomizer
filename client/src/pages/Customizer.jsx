@@ -52,3 +52,4 @@ const Customizer = () => {
 
     try {
       setGeneratingImg(true);
+
