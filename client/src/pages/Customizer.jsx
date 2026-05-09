@@ -110,3 +110,4 @@ const Customizer = () => {
 
   const readFile = (type) => {
     reader(file)
+      .then((result) => {
