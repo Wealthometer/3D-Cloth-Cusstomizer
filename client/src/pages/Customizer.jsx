@@ -108,3 +108,4 @@ const Customizer = () => {
     })
   }
 
+  const readFile = (type) => {
