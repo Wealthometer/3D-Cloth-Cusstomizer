@@ -43,3 +43,4 @@ const Customizer = () => {
           handleSubmit={handleSubmit}
         />
       default:
+        return null;
