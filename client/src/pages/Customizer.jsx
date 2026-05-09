@@ -129,3 +129,4 @@ const Customizer = () => {
               <div className="editortabs-container tabs">
                 {EditorTabs.map((tab) => (
                   <Tab 
+                    key={tab.name}
