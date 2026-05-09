@@ -86,3 +86,4 @@ const Customizer = () => {
 
   const handleActiveFilterTab = (tabName) => {
     switch (tabName) {
+      case "logoShirt":
