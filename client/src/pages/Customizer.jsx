@@ -78,3 +78,4 @@ const Customizer = () => {
     const decalType = DecalTypes[type];
 
     state[decalType.stateProperty] = result;
+
