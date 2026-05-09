@@ -88,3 +88,4 @@ const Customizer = () => {
     switch (tabName) {
       case "logoShirt":
           state.isLogoTexture = !activeFilterTab[tabName];
+        break;
