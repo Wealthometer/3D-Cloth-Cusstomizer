@@ -161,3 +161,4 @@ const Customizer = () => {
                 key={tab.name}
                 tab={tab}
                 isFilterTab
+                isActiveTab={activeFilterTab[tab.name]}
