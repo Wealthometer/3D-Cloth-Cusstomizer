@@ -58,3 +58,4 @@ const Customizer = () => {
         headers: {
           'Content-Type': 'application/json'
         },
+        body: JSON.stringify({
