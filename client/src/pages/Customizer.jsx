@@ -44,3 +44,4 @@ const Customizer = () => {
         />
       default:
         return null;
+  }
