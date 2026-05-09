@@ -114,3 +114,4 @@ const Customizer = () => {
         handleDecals(type, result);
         setActiveEditorTab("");
       })
+  }
